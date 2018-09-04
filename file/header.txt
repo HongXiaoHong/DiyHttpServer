@@ -1,0 +1,2 @@
+GET /path1/hong/xiao/0622.html?name=ºéÏþºè&pass=123 Http1.1
+´óµØ´ý¶¨ss

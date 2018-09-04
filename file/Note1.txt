@@ -1,0 +1,8 @@
+GET /aa/bb/cc.jpg?id=001&age=100 HTTP/1.1
+Host: localhost:8088
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 6.1)
+Accept: text/html,application/xhtml+xml,*/*;q=0.8
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9
+
